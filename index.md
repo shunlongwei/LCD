@@ -9,10 +9,6 @@ Many users believe that liquid crystal displays can be divided into LEDs and LCD
 
 
 ### LCD Displays
-[LMCBS078C](https://sites.google.com/view/lmcbs078c/)
-![image](https://user-images.githubusercontent.com/78201643/132206682-c06b548f-fb43-4c01-9ffd-7e3c015c11f5.png)
-
-
-![image](https://user-images.githubusercontent.com/78201643/132206374-1868c03f-f4f4-43ef-8216-78cbe8ce20b3.png)
+[AA104XD12--G1](https://sites.google.com/view/aa104xd12-g1/)
 
 

@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## What is LCD Display
 
-You can use the [editor on GitHub](https://github.com/shunlongwei/lcd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+LCD (Liquid Crystal Display) Liquid Crystal [Display](https://www.slw-ele.com/). The structure of LCD is to place a Liquid Crystal cell between two parallel Glass substrates. The lower substrate Glass is equipped with TFT (thin film Transistor), and the upper substrate Glass is equipped with a color filter. The signal and voltage on the TFT are changed to control the liquid crystal molecules. Rotate the direction, so as to achieve the display purpose by controlling whether the polarized light of each pixel point is emitted or not. LCD has replaced CRT as the mainstream, and the price has dropped a lot, and it has been fully popularized.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LCD Type](https://www.shunlongwei.com/)
+According to the different Backlight sources, LCDs can be divided into two types: CCFL displays and LED displays.
+Misunderstanding:
+Many users believe that liquid crystal displays can be divided into LEDs and LCDs. To some extent, this understanding is misguided by advertisements.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LCD Displays
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shunlongwei/lcd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
